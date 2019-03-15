@@ -1,0 +1,19 @@
+{
+  "name": "playatwork",
+  "version": "1.0.0",
+  "description": "Safebear test automation framework at work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BecTheCow/PlayAtWork.git"
+  },
+  "author": "Bec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BecTheCow/PlayAtWork/issues"
+  },
+  "homepage": "https://github.com/BecTheCow/PlayAtWork#readme"
+}
