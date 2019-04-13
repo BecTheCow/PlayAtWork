@@ -9,7 +9,6 @@ module.exports = {
         "plugin:protractor/recommended",
         "plugin:cucumber"
     ],
-
     "globals": {
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly"
